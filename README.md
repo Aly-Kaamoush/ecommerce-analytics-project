@@ -7,7 +7,7 @@ Business Problem
 Analyze e-commerce sales performance to:
 
 Identify top-performing products and markets
-Understand customer behavior and segmentation
+Understand customer behaviour and segmentation
 Discover seasonal trends and patterns
 Provide data-driven recommendations for business growth
 
@@ -21,13 +21,13 @@ GitHub: Version control and project documentation
 
 Project Structure
 data/
-│   ├── raw/           # Original datasets
-│   └── processed/     # Cleaned and transformed data
-├── python/            # Python scripts and Jupyter notebooks
-├── sql/               # Database schema and queries
-├── excel/             # Excel analysis files
-├── powerbi/           # Power BI dashboard files
-└── documentation/     # Project documentation and insights
+    raw/           # Original datasets
+    processed/     # Cleaned and transformed data
+python/            # Python scripts and Jupyter notebooks
+sql/               # Database schema and queries
+excel/             # Excel analysis files
+powerbi/           # Power BI dashboard files
+documentation/     # Project documentation and insights
 
 Dataset Information
 
